@@ -1,0 +1,12 @@
+{
+    "name": "srlz",
+    "version": "0.0.1",
+    "main": "index.js",
+    "scripts": {
+        "test": "ava",
+        "test:watch": "ava --watch"
+    },
+    "devDependencies": {
+        "ava": "^3.11.0"
+    }
+}
