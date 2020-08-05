@@ -1,10 +1,16 @@
 {
     "name": "srlz",
+    "description": "A small serialization library that can be adapted to your own needs.",
     "version": "0.0.1",
     "main": "index.js",
     "scripts": {
         "test": "ava",
         "test:watch": "ava --watch"
+    },
+    "author": {
+        "name": "Florian Goße",
+        "email": "florian@essog.de",
+        "url": "https://floriangosse.dev"
     },
     "devDependencies": {
         "ava": "^3.11.0"
