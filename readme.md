@@ -1,4 +1,4 @@
-# srlz
+# srlz [![Build Status][build-badge]][build]
 
 > A small serialization library that can be adapted to your own needs.
 
@@ -127,3 +127,5 @@ postSerializer.serialize(post);
 // }
 ```
 
+[build-badge]: https://travis-ci.com/floriangosse/srlz.svg?branch=master
+[build]: https://travis-ci.com/floriangosse/srlz
