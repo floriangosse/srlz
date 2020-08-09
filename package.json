@@ -1,7 +1,7 @@
 {
     "name": "srlz",
     "description": "A small serialization library that can be adapted to your own needs.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "main": "index.js",
     "scripts": {
         "test": "ava",
